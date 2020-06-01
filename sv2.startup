@@ -1,0 +1,1 @@
+ifconfig eth0 100.2.2.2/23 up
